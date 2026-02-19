@@ -1,0 +1,2 @@
+selectolax==0.3.21
+orjson>=3.9.0,<4.0
