@@ -1,5 +1,4 @@
-This parser is used to extract content (dataset for model training) from WARC files . for those who doesn't know WARC files this are the one which contains the HTML content which is scraped and store 
-in Different format like WARC, WET.
+This parser is used to extract content (dataset for model training) from WARC files . for those who doesn't know WARC files this are the one which contains the HTML content which is scraped from the internet and store in Different format like WARC, WET.
 
 for using this parser first install the requirment from requirement.txt file
 
